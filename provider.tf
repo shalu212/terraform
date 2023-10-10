@@ -3,7 +3,7 @@
 
 provider "aws" {
   region     = "ap-south-1"
-  access_key = "${env.accesskey}"
+  access_key = "AKIARPBGYN6GZLZL6WZM"
   
   secret_key = "${env.secretkey"
 }
